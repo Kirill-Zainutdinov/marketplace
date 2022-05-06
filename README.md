@@ -17,3 +17,9 @@
 
 Тесты:
 Реализованы тесты с 100% покрытием для всех 4 контрактов
+
+Контракты задеплоины в тестовой сети rinkeby по адресам:
+Token erc20 deployed to: 0x52f051165079FFDa3095D2F8f3bf375B7375DD1C
+Token erc721 deployed to: 0xE539C3696dd666332BBe13cfB4EB1A79c6c9ae5A
+Token erc1155 deployed to: 0x537A1Dd855e358EBE1dE51E8C9c2e7b528e21A61
+Marketplace deployed to: 0x3b19E348DB389561BD32c9Bf39B28C7eD42A62b1
